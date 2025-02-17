@@ -1,307 +1,34 @@
-## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
-*.fmt
-*.fot
-*.cb
-*.cb2
-.*.lb
+# InfoTech Hub
 
-## Intermediate documents:
-*.dvi
-*.xdv
-*-converted-to.*
-# these rules might exclude image files for figures etc.
-# *.ps
-# *.eps
-# *.pdf
+## Descripción
 
-## Generated if empty string is given at "Please type another file name for output:"
-.pdf
+InfoTech Hub es tu fuente centralizada de recursos y conocimientos en tecnología de la información. Aquí encontrarás una amplia gama de información, desde tutoriales y documentación técnica hasta análisis de tendencias y noticias del sector.
 
-## Bibliography auxiliary files (bibtex/biblatex/biber):
-*.bbl
-*.bbl-SAVE-ERROR
-*.bcf
-*.blg
-*-blx.aux
-*-blx.bib
-*.run.xml
+## Contenido
 
-## Build tool auxiliary files:
-*.fdb_latexmk
-*.synctex
-*.synctex(busy)
-*.synctex.gz
-*.synctex.gz(busy)
-*.pdfsync
-*.rubbercache
-rubber.cache
+El repositorio se organiza en las siguientes secciones principales:
 
-## Build tool directories for auxiliary files
-# latexrun
-latex.out/
+*   **Tutoriales**: Guías paso a paso sobre diversos temas de tecnología.
+*   **Documentación**: Documentos técnicos y manuales de referencia.
+*   **Análisis**: Artículos y estudios sobre tendencias y tecnologías emergentes.
+*   **Noticias**: Noticias y novedades del mundo de la tecnología.
+*   **Comunidad**: Espacio para compartir conocimientos y colaborar en proyectos.
 
-## Auxiliary and intermediate files from other packages:
-# algorithms
-*.alg
-*.loa
+## Cómo contribuir
 
-# achemso
-acs-*.bib
+Si deseas contribuir al repositorio, por favor, sigue las siguientes pautas:
 
-# amsthm
-*.thm
+1.  Crea un "issue" para proponer tu contribución.
+2.  Crea un "pull request" con los cambios propuestos.
+3.  Asegúrate de que tu contribución cumpla con los estándares de calidad del repositorio.
 
-# beamer
-*.nav
-*.pre
-*.snm
-*.vrb
+## Licencia
 
-# changes
-*.soc
+Este repositorio se distribuye bajo la licencia MIT.
 
-# comment
-*.cut
+## Contacto
 
-# cprotect
-*.cpt
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
 
-# elsarticle (documentclass of Elsevier journals)
-*.spl
+¡Bienvenido a InfoTech Hub!
 
-# endnotes
-*.ent
-
-# fixme
-*.lox
-
-# feynmf/feynmp
-*.mf
-*.mp
-*.t[1-9]
-*.t[1-9][0-9]
-*.tfm
-
-#(r)(e)ledmac/(r)(e)ledpar
-*.end
-*.?end
-*.[1-9]
-*.[1-9][0-9]
-*.[1-9][0-9][0-9]
-*.[1-9]R
-*.[1-9][0-9]R
-*.[1-9][0-9][0-9]R
-*.eledsec[1-9]
-*.eledsec[1-9]R
-*.eledsec[1-9][0-9]
-*.eledsec[1-9][0-9]R
-*.eledsec[1-9][0-9][0-9]
-*.eledsec[1-9][0-9][0-9]R
-
-# glossaries
-*.acn
-*.acr
-*.glg
-*.glo
-*.gls
-*.glsdefs
-*.lzo
-*.lzs
-*.slg
-*.slo
-*.sls
-
-# uncomment this for glossaries-extra (will ignore makeindex's style files!)
-# *.ist
-
-# gnuplot
-*.gnuplot
-*.table
-
-# gnuplottex
-*-gnuplottex-*
-
-# gregoriotex
-*.gaux
-*.glog
-*.gtex
-
-# htlatex
-*.4ct
-*.4tc
-*.idv
-*.lg
-*.trc
-*.xref
-
-# hypdoc
-*.hd
-
-# hyperref
-*.brf
-
-# knitr
-*-concordance.tex
-# TODO Uncomment the next line if you use knitr and want to ignore its generated tikz files
-# *.tikz
-*-tikzDictionary
-
-# listings
-*.lol
-
-# luatexja-ruby
-*.ltjruby
-
-# makeidx
-*.idx
-*.ilg
-*.ind
-
-# minitoc
-*.maf
-*.mlf
-*.mlt
-*.mtc[0-9]*
-*.slf[0-9]*
-*.slt[0-9]*
-*.stc[0-9]*
-
-# minted
-_minted*
-*.pyg
-
-# morewrites
-*.mw
-
-# newpax
-*.newpax
-
-# nomencl
-*.nlg
-*.nlo
-*.nls
-
-# pax
-*.pax
-
-# pdfpcnotes
-*.pdfpc
-
-# sagetex
-*.sagetex.sage
-*.sagetex.py
-*.sagetex.scmd
-
-# scrwfile
-*.wrt
-
-# svg
-svg-inkscape/
-
-# sympy
-*.sout
-*.sympy
-sympy-plots-for-*.tex/
-
-# pdfcomment
-*.upa
-*.upb
-
-# pythontex
-*.pytxcode
-pythontex-files-*/
-
-# tcolorbox
-*.listing
-
-# thmtools
-*.loe
-
-# TikZ & PGF
-*.dpth
-*.md5
-*.auxlock
-
-# titletoc
-*.ptc
-
-# todonotes
-*.tdo
-
-# vhistory
-*.hst
-*.ver
-
-# easy-todo
-*.lod
-
-# xcolor
-*.xcp
-
-# xmpincl
-*.xmpi
-
-# xindy
-*.xdy
-
-# xypic precompiled matrices and outlines
-*.xyc
-*.xyd
-
-# endfloat
-*.ttt
-*.fff
-
-# Latexian
-TSWLatexianTemp*
-
-## Editors:
-# WinEdt
-*.bak
-*.sav
-
-# Texpad
-.texpadtmp
-
-# LyX
-*.lyx~
-
-# Kile
-*.backup
-
-# gummi
-.*.swp
-
-# KBibTeX
-*~[0-9]*
-
-# TeXnicCenter
-*.tps
-
-# auto folder when using emacs and auctex
-./auto/*
-*.el
-
-# expex forward references with \gathertags
-*-tags.tex
-
-# standalone packages
-*.sta
-
-# Makeindex log files
-*.lpz
-
-# xwatermark package
-*.xwm
-
-# REVTeX puts footnotes in the bibliography by default, unless the nofootinbib
-# option is specified. Footnotes are the stored in a file with suffix Notes.bib.
-# Uncomment the next line to have this generated file ignored.
-#*Notes.bib
